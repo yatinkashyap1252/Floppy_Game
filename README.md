@@ -1,2 +1,2 @@
-# Floppy_Game
-Conquer the skies in a nostalgic adventure: My Python Floppy Game!
+# Snake_Game
+Conquer the green land in a nostalgic adventure: My Python Snake 🐍 Game!
